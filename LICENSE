@@ -1,37 +1,15 @@
-MIT License with Custom Usage Terms for SandBOX-macOS
+SandBOX License v1.0
 
-Copyright (c) 2025 Damon Salvatore (DSSalvatore / DSSalvatore-Development)
+Copyright (c) 2025 [Your Name]
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to use,
-copy, and study the Software for personal, educational, or non-commercial
-purposes, subject to the following additional restrictions:
+1. Использование и права
+Вы можете изучать, использовать идеи и концепции из этого проекта для создания собственных приложений и проектов.
 
-1. Commercial use is strictly prohibited without the author's explicit written permission.
-2. Direct copying of the Software or its unique design/architecture is prohibited.
-3. Users may study, learn from, and be inspired by the Software, but may not use
-   more than 50% of the code, design, or core ideas for derivative works.
-4. Modifications for personal use are allowed, provided the modified work does
-   not violate points 1-3.
-5. Any derivative works must clearly credit Damon Salvatore (DSSalvatore).
+2. Ограничения
+Вы не имеете права копировать, распространять или использовать исходный код этого проекта, полностью или частично, без прямого письменного разрешения автора. Любые попытки копирования кода будут считаться нарушением авторских прав.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+3. Обязательства
+Автор предоставляет проект “как есть”, без каких-либо гарантий. Вы используете проект и идеи на свой страх и риск. Автор не несет ответственности за последствия использования идей.
 
-────────────────────────────────────────────
-Пояснение на русском (не является юридическим текстом, а служит справкой):
-
-Автор: Деймон (Damon Salvatore, ник DSSalvatore / GitHub DSSalvatore-Development)
-Проект: SandBOX-macOS
-
-- Запрещено коммерческое использование без согласия автора.
-- Прямое копирование кода или ключевых идей проекта запрещено.
-- Разрешено вдохновляться проектом для создания собственных идей, но не более 50% заимствования.
-- Модификации разрешены только для личного использования при соблюдении вышеуказанных правил.
-- Любая производная работа должна указывать авторство Damon Salvatore.
-────────────────────────────────────────────
+4. Срок действия
+Эта лицензия действует бессрочно, во всех странах мира.
