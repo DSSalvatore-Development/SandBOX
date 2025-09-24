@@ -1,22 +1,36 @@
-SandBOX Idea License v1.0
+SandBOX Idea License v1.0 (SIL 1.0)
 
 Copyright (c) 2025 [Your Name]
 
-Преамбула
-Этот проект предоставляется для изучения, анализа и вдохновения. Цель — делиться знаниями и концепциями, но сохранять авторские права на исходный код и ключевые идеи.
+CREATIVE COMMONS CORPORATION IS NOT A LAW FIRM AND DOES NOT PROVIDE LEGAL SERVICES.
+This document is provided “as-is” for informational purposes. Use of this license does not create an attorney-client relationship.
 
-1. Использование идей
-	•	Вы можете использовать идею, архитектуру и концепции для создания собственных проектов.
-	•	Запрещается копировать исходный код полностью или частично.
-	•	В чужих проектах можно использовать не более 50% концептуальных идей данного проекта.
+Statement of Purpose
 
-2. Авторство и ограничения
-	•	Любое использование идей должно указывать автора оригинального проекта: [Your Name].
-	•	Нельзя продавать, выдавать за своё, или коммерчески использовать исходный код или более 50% концептуальных идей без письменного разрешения.
+The creator of this project wishes to share ideas, architecture, and concepts for educational and inspirational purposes, while retaining exclusive rights to the source code and core concepts. This license allows the public to study and be inspired by the project, but restricts direct copying, redistribution, or commercial use of the project’s code and key concepts beyond defined limits.
 
-3. Ограничение ответственности
-Проект предоставляется «как есть». Автор не несет ответственности за последствия использования идей.
+1. Definitions
+	1.	Work — the source code, documentation, and conceptual ideas of the SandBOX project.
+	2.	Affirmer — the original copyright holder of the Work ([Your Name]).
+	3.	User — anyone who studies, uses, or is inspired by the Work.
+	4.	Idea Usage — the incorporation of the Work’s concepts, architecture, or inspiration into a separate project.
 
-4. Срок действия и территория
-	•	Данная лицензия действует бессрочно во всех странах мира.
-	•	Любые споры регулируются законами страны проживания автора.
+2. Permitted Use
+	•	Users may study, analyze, and be inspired by the Work.
+	•	Users may incorporate up to 50% of conceptual ideas of the Work into their own projects.
+	•	Users must always credit the original author: [Your Name].
+
+3. Prohibited Use
+	•	Copying source code, fully or partially, is forbidden.
+	•	Commercial exploitation of the Work or its source code without written permission is forbidden.
+	•	Users may not claim authorship of the Work or its primary ideas.
+	•	Users may not redistribute more than 50% of the conceptual design or structure in another project.
+
+4. Limitations and Disclaimers
+	•	The Work is provided “as-is”, without warranties of any kind.
+	•	Affirmer is not liable for damages arising from use, misuse, or reliance on the Work or its ideas.
+	•	Users are responsible for compliance with other applicable laws when applying ideas from the Work.
+
+5. Duration and Jurisdiction
+	•	This license is perpetual and applies worldwide.
+	•	Any disputes arising from this license are governed by the laws of the country of residence of the Affirmer.
