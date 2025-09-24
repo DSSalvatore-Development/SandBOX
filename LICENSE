@@ -1,36 +1,36 @@
-SandBOX Idea License v1.0 (SIL 1.0)
+Лицензия “SandBOX Idea License v1.0” (SIL 1.0)
 
-Copyright (c) 2025 [Your Name]
+Авторское право (c) 2025 [Ваше имя]
 
-CREATIVE COMMONS CORPORATION IS NOT A LAW FIRM AND DOES NOT PROVIDE LEGAL SERVICES.
-This document is provided “as-is” for informational purposes. Use of this license does not create an attorney-client relationship.
+CREATIVE COMMONS CORPORATION НЕ ЯВЛЯЕТСЯ ЮРИДИЧЕСКОЙ ФИРМОЙ И НЕ ПРЕДОСТАВЛЯЕТ ЮРИДИЧЕСКИХ УСЛУГ.
+Данный документ предоставляется “как есть” для информационных целей. Использование этой лицензии не создает отношений клиент-адвокат.
 
-Statement of Purpose
+Цель лицензии
 
-The creator of this project wishes to share ideas, architecture, and concepts for educational and inspirational purposes, while retaining exclusive rights to the source code and core concepts. This license allows the public to study and be inspired by the project, but restricts direct copying, redistribution, or commercial use of the project’s code and key concepts beyond defined limits.
+Автор проекта желает делиться идеями, архитектурой и концепциями для образовательных и вдохновляющих целей, сохраняя исключительные права на исходный код и ключевые концепции. Лицензия позволяет публике изучать и вдохновляться проектом, но ограничивает прямое копирование, перераспределение или коммерческое использование проекта и ключевых идей.
 
-1. Definitions
-	1.	Work — the source code, documentation, and conceptual ideas of the SandBOX project.
-	2.	Affirmer — the original copyright holder of the Work ([Your Name]).
-	3.	User — anyone who studies, uses, or is inspired by the Work.
-	4.	Idea Usage — the incorporation of the Work’s concepts, architecture, or inspiration into a separate project.
+1. Определения
+	1.	Работа (Work) — исходный код, документация и концептуальные идеи проекта SandBOX.
+	2.	Аффирмер (Affirmer) — оригинальный владелец авторских прав на Работу ([Ваше имя]).
+	3.	Пользователь (User) — любое лицо, изучающее, использующее или вдохновляющееся Работой.
+	4.	Использование идей (Idea Usage) — использование концепций, архитектуры или вдохновения из Работы в отдельном проекте.
 
-2. Permitted Use
-	•	Users may study, analyze, and be inspired by the Work.
-	•	Users may incorporate up to 50% of conceptual ideas of the Work into their own projects.
-	•	Users must always credit the original author: [Your Name].
+2. Разрешенное использование
+	•	Пользователи могут изучать, анализировать и вдохновляться Работой.
+	•	Пользователи могут включать не более 50% концептуальных идей Работы в свои проекты.
+	•	Пользователи обязаны указать автора: [Ваше имя].
 
-3. Prohibited Use
-	•	Copying source code, fully or partially, is forbidden.
-	•	Commercial exploitation of the Work or its source code without written permission is forbidden.
-	•	Users may not claim authorship of the Work or its primary ideas.
-	•	Users may not redistribute more than 50% of the conceptual design or structure in another project.
+3. Запрещенное использование
+	•	Копирование исходного кода, полностью или частично, запрещено.
+	•	Коммерческое использование Работы или её исходного кода без письменного разрешения запрещено.
+	•	Пользователи не могут выдавать себя за авторов Работы или её ключевых идей.
+	•	Пользователи не могут перераспределять более 50% концептуального дизайна или структуры в другом проекте.
 
-4. Limitations and Disclaimers
-	•	The Work is provided “as-is”, without warranties of any kind.
-	•	Affirmer is not liable for damages arising from use, misuse, or reliance on the Work or its ideas.
-	•	Users are responsible for compliance with other applicable laws when applying ideas from the Work.
+4. Ограничения и отказ от ответственности
+	•	Работа предоставляется “как есть”, без каких-либо гарантий.
+	•	Аффирмер не несет ответственности за ущерб, возникший в результате использования, неправильного использования или опоры на Работу или её идеи.
+	•	Пользователи несут ответственность за соблюдение всех применимых законов при применении идей из Работы.
 
-5. Duration and Jurisdiction
-	•	This license is perpetual and applies worldwide.
-	•	Any disputes arising from this license are governed by the laws of the country of residence of the Affirmer.
+5. Срок действия и юрисдикция
+	•	Лицензия действует пожизненно и во всех странах мира.
+	•	Любые споры, возникающие из этой лицензии, регулируются законодательством страны проживания Аффирмера.
